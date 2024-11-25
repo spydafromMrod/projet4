@@ -1,8 +1,6 @@
-streamlit
-pandas
-numpy
-ast
-requests
-scikit-learn
-tensorflow
-pandas_profiling
+streamlit==1.24.0
+pandas==2.0.3
+numpy==1.25.2
+requests==2.31.0
+scikit-learn==1.3.0
+tensorflow==2.12.0
