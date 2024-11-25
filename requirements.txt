@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+ast
+requests
+scikit-learn
+tensorflow
+pandas_profiling
