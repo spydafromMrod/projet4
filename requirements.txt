@@ -1,8 +1,6 @@
-# Install setuptools
-pip install setuptools
-
 # Update requirements.txt
 echo "streamlit==1.24.0
+setuptools
 pandas==2.0.3
 numpy==1.25.2
 requests==2.31.0
